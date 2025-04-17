@@ -2261,9 +2261,9 @@ progress {
 .form-control:focus {
     color: #545454;
     background-color: #fff;
-    border-color: #f5d39b;
+    border-color: #508D4E;
     outline: 0;
-    box-shadow: 0 0 0 .25rem rgba(234, 166, 54, 0.25)
+    box-shadow: 0 0 0 .25rem #508D4E40
 }
 
 .form-control::-webkit-date-and-time-value {
@@ -4119,7 +4119,7 @@ fieldset:disabled .btn {
 .dropdown-item {
     display: block;
     width: 100%;
-    padding: .25rem 1rem;
+    padding: .45rem 1rem;
     clear: both;
     font-weight: 400;
     color: #212529;
@@ -4131,8 +4131,8 @@ fieldset:disabled .btn {
 
 .dropdown-item:hover,
 .dropdown-item:focus {
-    color: #1e2125;
-    background-color: #e9ecef
+    color: #fff;
+    background-color: #508D4E;
 }
 
 .dropdown-item.active,
@@ -7312,7 +7312,7 @@ fieldset:disabled .btn {
 }
 
 .border-secondary {
-    border-color: #545454 !important
+    border-color: #80AF81 !important
 }
 
 .border-success {
@@ -8345,7 +8345,7 @@ fieldset:disabled .btn {
 }
 
 .bg-secondary {
-    background-color: #545454 !important
+    background-color: #80AF81 !important
 }
 
 .bg-success {
@@ -8369,7 +8369,7 @@ fieldset:disabled .btn {
 }
 
 .bg-dark {
-    background-color: #1E1916 !important
+    background-color: #508D4E !important
 }
 
 .bg-body {
