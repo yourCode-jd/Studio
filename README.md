@@ -1,6 +1,7 @@
 # EverFrame Studio
 
 **Tagline:** “Moments that last a lifetime.”
+
 Elegant wedding and portrait photography with a focus on timeless storytelling.
 
 ---
