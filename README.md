@@ -8,7 +8,7 @@ Elegant wedding and portrait photography with a focus on timeless storytelling.
 
 ## 🚀 Github Demo
 
-[View Here](https://yourcode-jd.github.io/Studio/)
+[View Here](https://yourcode-jd.github.io/EverFrameStudio/)
 
 ---
 
